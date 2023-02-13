@@ -1,0 +1,16 @@
+
+i {
+    color: rgba(233, 49, 49, 0.705);
+  
+}
+
+.img-forum{
+    max-width: 200px;
+    display: flex;
+}
+.maClasse{
+    background-color: red;
+}
+.inscription{
+    background-color: rgba(146, 146, 202, 0.863);
+}
